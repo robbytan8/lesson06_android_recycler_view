@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lesson06 Android Multi Layout</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_id">ID</string>
+    <string name="text_name">Name</string>
+    <string name="text_address">Address</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_department">Department</string>
+    <string name="text_login">login</string>
+    <string name="logo_desc" translatable="false">Logo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="parcel_student" translatable="false">pclstudent</string>
+</resources>
